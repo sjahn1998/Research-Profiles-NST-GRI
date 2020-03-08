@@ -1,13 +1,13 @@
-### Á¤ºÎÃâ¿¬¿¬±¸±â°üÀÇ ¼º°úµ¥ÀÌÅÍ¸¦ È°¿ëÇÑ °Å½ÃÀû ¿¬±¸ÁöÇü ¹× ¼öÁØ ºÐ¼®</b><br>
+### ì •ë¶€ì¶œì—°ì—°êµ¬ê¸°ê´€ì˜ ì„±ê³¼ë°ì´í„°ë¥¼ í™œìš©í•œ ê±°ì‹œì  ì—°êµ¬ì§€í˜• ë° ìˆ˜ì¤€ ë¶„ì„</b><br>
 
 #### Macroscopic research topography and level analysis using performance data of government funded institutes
 
-> 2019 NST-KOTIS ³í¹® °ø¸ðÀü¿¡¼­ ¿ì¼ö»ó ¼ö»ó (ÇÑ±¹±â¼úÇõ½ÅÇÐÈ¸Áö °ÔÀç ¿¹Á¤) <br>
-> ¾È¼¼Á¤ & ÀÌÁØ¿µ (2019), KISTI Data Insight Á¦6È£
+> 2019 NST-KOTIS ë…¼ë¬¸ ê³µëª¨ì „ì—ì„œ ìš°ìˆ˜ìƒ ìˆ˜ìƒ <br>
+> ì•ˆì„¸ì • & ì´ì¤€ì˜ (2019), KISTI Data Insight ì œ6í˜¸
 
 <br>
 
-KISTI¿¡¼­ °³¹ßÇÑ ÁöÇ¥ºÐ¼® Áö¿ø½Ã½ºÅÛ(i-Metrics)À» È°¿ëÇÏ¿© ±â°ü ¼º°ú ºÐ¼® ÇÙ½É ÁöÇ¥¸¦ »êÃâÇÏ°í, ±¹°¡°úÇÐ±â¼ú¿¬±¸È¸ ¼Ò°ü Ãâ¿¬¿¬°ú ÇØ¿Ü ¿¬±¸±â°üµéÀÇ ³í¹® ¼º°ú¸¦ ´Ù¾çÇÑ Ãø¸é¿¡¼­ ºñ±³ºÐ¼®
+KISTIì—ì„œ ê°œë°œí•œ ì§€í‘œë¶„ì„ ì§€ì›ì‹œìŠ¤í…œ(i-Metrics)ì„ í™œìš©í•˜ì—¬ ê¸°ê´€ ì„±ê³¼ ë¶„ì„ í•µì‹¬ ì§€í‘œë¥¼ ì‚°ì¶œí•˜ê³ , êµ­ê°€ê³¼í•™ê¸°ìˆ ì—°êµ¬íšŒ ì†Œê´€ ì¶œì—°ì—°ê³¼ í•´ì™¸ ì—°êµ¬ê¸°ê´€ë“¤ì˜ ë…¼ë¬¸ ì„±ê³¼ë¥¼ ë‹¤ì–‘í•œ ì¸¡ë©´ì—ì„œ ë¹„êµë¶„ì„
 
 <br>
 
